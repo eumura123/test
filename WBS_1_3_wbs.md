@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TB
+flowchart LR
     subgraph "（第一階層）目的"
     1[袋入りインスタントラーメンを食べる]
     end
